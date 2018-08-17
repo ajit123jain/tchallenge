@@ -1,5 +1,6 @@
 import java.util.*;
-public class User extends Dummy{
+import java.io.*;
+public class User /*extends Dummy*/{
 	String firstName;
 	String lastName;
 	Integer age;
